@@ -3,7 +3,7 @@ import type { Portfolio } from "@/types";
 export const portfolioList: Portfolio[] = [
    {
     title: "Backoffice Yellow Fit",
-    imageThumbnail: "/assets/images/warehouse.png",
+    imageThumbnail: "/assets/images/backoffice.png",
     description:
       "to perposale and update feature and bug fixing for bo for all dept yellowfit kitchen",
     livePreviewURL: "",
