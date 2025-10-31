@@ -3,6 +3,14 @@ import type { WorkExperience } from "@/types";
 export const workExperienceList: WorkExperience[] = [
   {
     jobDesk: "Full Stack Web Developer",
+    companyName: "PT Yellow fit kitchen group indonesia",
+    years: "mei 2025 - sekarang",
+    jobStatus: "Contract",
+    jobDescription: "contributing to the development  website kurir, warehouse management system, and backoffice yellow fit ",
+    techStack: ["/assets/svg/vue.svg", "/assets/svg/laravel.svg", "/assets/svg/mysql.svg", "/assets/svg/typescript.svg", "/assets/svg/socket.svg"],
+  },
+  {
+    jobDesk: "Full Stack Web Developer",
     companyName: "PT Yubi Technology",
     years: "February 2025 - juni 2025",
     jobStatus: "Full Time",

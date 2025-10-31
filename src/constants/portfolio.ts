@@ -1,6 +1,72 @@
 import type { Portfolio } from "@/types";
 
 export const portfolioList: Portfolio[] = [
+   {
+    title: "Backoffice Yellow Fit",
+    imageThumbnail: "/assets/images/warehouse.png",
+    description:
+      "to perposale and update feature and bug fixing for bo for all dept yellowfit kitchen",
+    livePreviewURL: "",
+    repositoryURL: "",
+    techStack: [
+      {
+        tech: "laravel",
+        logo: "/assets/svg/laravel.svg",
+      },
+      {
+        tech: "Tailwind",
+        logo: "/assets/svg/talwind.svg",
+      },
+      {
+        tech: "Mysql",
+        logo: "/assets/svg/mysql.svg",
+      },
+    ],
+  },
+   {
+    title: "Warehouse Management Web",
+    imageThumbnail: "/assets/images/warehouse.png",
+    description:
+      "Development website for mastar data all and barang in and out to fitur warehouse",
+    livePreviewURL: "",
+    repositoryURL: "",
+    techStack: [
+      {
+        tech: "Nextjs",
+        logo: "/assets/svg/next js.svg",
+      },
+      {
+        tech: "TypeScript",
+        logo: "/assets/svg/typescript.svg",
+      },
+      {
+        tech: "Mysql",
+        logo: "/assets/svg/mysql.svg",
+      },
+    ],
+  },
+   {
+    title: "Kurir Yellow Fit",
+    imageThumbnail: "/assets/images/kurir.png",
+    description:
+      "For Website Kurir yellow fit to features pengantaran. history, gaji, order, pinjaman",
+    livePreviewURL: "",
+    repositoryURL: "",
+    techStack: [
+      {
+        tech: "Nextjs",
+        logo: "/assets/svg/next js.svg",
+      },
+      {
+        tech: "Tailwind",
+        logo: "/assets/svg/typescript.svg",
+      },
+      {
+        tech: "Mysql",
+        logo: "/assets/svg/mysql.svg",
+      },
+    ],
+  },
   {
     title: "Counting System Web",
     imageThumbnail: "/assets/images/counting-thumbnail.png",
